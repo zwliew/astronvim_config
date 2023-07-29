@@ -9,4 +9,11 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "f-person/auto-dark-mode.nvim",
+    config = {},
+    init = function()
+      require("auto-dark-mode").init()
+    end,
+  }
 }
