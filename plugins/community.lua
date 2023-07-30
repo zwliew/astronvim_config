@@ -9,12 +9,16 @@ return {
 
   { import = "astrocommunity.completion.copilot-lua-cmp" },
 
+  { import = "astrocommunity.git.neogit" },
+
+  { import = "astrocommunity.media.pets-nvim" },
+
+  { import = "astrocommunity.motion.leap-nvim" },
+
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
-
-  { import = "astrocommunity.git.neogit" },
 
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
 }
