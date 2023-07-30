@@ -15,4 +15,6 @@ return {
   { import = "astrocommunity.pack.typescript-all-in-one" },
 
   { import = "astrocommunity.git.neogit" },
+
+  { import = "astrocommunity.scrolling.nvim-scrollbar" },
 }
