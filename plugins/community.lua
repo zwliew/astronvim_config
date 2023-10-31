@@ -11,6 +11,8 @@ return {
 
   { import = "astrocommunity.git.neogit" },
 
+  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
+
   { import = "astrocommunity.media.pets-nvim" },
 
   { import = "astrocommunity.motion.leap-nvim" },
@@ -18,6 +20,7 @@ return {
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
 
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
