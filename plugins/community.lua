@@ -26,6 +26,7 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.typst" },
+  { import = "astrocommunity.pack.zig" },
 
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
 }
