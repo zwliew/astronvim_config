@@ -10,4 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.python-ruff" },
+  { import = "astrocommunity.completion.copilot-cmp" },
+  { import = "astrocommunity.scrolling.nvim-scrollbar" },
+  { import = "astrocommunity.recipes.vscode" },
 }
