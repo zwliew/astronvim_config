@@ -15,6 +15,7 @@ return {
   { import = "astrocommunity.pack.haskell" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.ocaml" },
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.completion.copilot-cmp" },
