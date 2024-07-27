@@ -7,4 +7,7 @@ return {
     config = {},
     init = function() require("auto-dark-mode").init() end,
   },
+  {
+    "whonore/Coqtail",
+  },
 }
