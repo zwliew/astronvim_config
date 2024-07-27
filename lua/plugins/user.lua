@@ -10,4 +10,11 @@ return {
   {
     "whonore/Coqtail",
   },
+  {
+    "tomtomjhj/coq-lsp.nvim",
+    ft = { "coq" },
+    opts = {
+      mappings = true,
+    },
+  },
 }
