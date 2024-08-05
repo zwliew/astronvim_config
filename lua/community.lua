@@ -8,6 +8,8 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.completion.copilot-cmp" },
+  { import = "astrocommunity.note-taking.obsidian-nvim" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.cpp" },
@@ -20,7 +22,6 @@ return {
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
-  { import = "astrocommunity.completion.copilot-cmp" },
-  { import = "astrocommunity.scrolling.nvim-scrollbar" },
   { import = "astrocommunity.recipes.vscode" },
+  { import = "astrocommunity.scrolling.nvim-scrollbar" },
 }
