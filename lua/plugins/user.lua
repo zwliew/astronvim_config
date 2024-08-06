@@ -4,7 +4,7 @@
 return {
   {
     "f-person/auto-dark-mode.nvim",
-    config = {},
+    opts = {},
     init = function() require("auto-dark-mode").init() end,
   },
   {
@@ -25,5 +25,10 @@ return {
     event = { "User KittyScrollbackLaunch" },
     version = "*", -- latest stable version, may have breaking changes if major version changed
     config = function() require("kitty-scrollback").setup() end,
+  },
+  {
+    "MeanderingProgrammer/render-markdown.nvim",
+    opts = {},
+    dependencies = { "nvim-treesitter/nvim-treesitter", "nvim-tree/nvim-web-devicons" }, -- if you prefer nvim-web-devicons
   },
 }
