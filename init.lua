@@ -20,6 +20,7 @@ require "polish"
 
 vim.filetype.add {
   extension = {
+    svx = "markdown",
     ry = "ry",
   },
 }
