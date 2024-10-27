@@ -21,6 +21,7 @@ return {
   { import = "astrocommunity.pack.ocaml" },
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.svelte" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.recipes.vscode" },
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
